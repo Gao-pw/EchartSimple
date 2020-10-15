@@ -103,3 +103,5 @@ function EChartSimple({title = '未命名标题',subtitle = '未命名副标题'
         chart.setOption(option);
     }
 }
+
+var obj = new EChartSimple();
